@@ -1,0 +1,31 @@
+amqp==5.2.0
+APScheduler==3.10.4
+async-timeout==4.0.3
+billiard==4.2.0
+celery==5.4.0
+certifi==2024.7.4
+charset-normalizer==3.3.2
+click==8.1.7
+click-didyoumean==0.3.1
+click-plugins==1.1.1
+click-repl==0.3.0
+distlib @ file:///croot/distlib_1673477531104/work
+filelock @ file:///croot/filelock_1700591183607/work
+greenlet==3.0.3
+idna==3.8
+kombu==5.4.0
+platformdirs @ file:///opt/conda/conda-bld/platformdirs_1662711380096/work
+prompt_toolkit==3.0.47
+python-dateutil==2.9.0.post0
+pytz==2024.1
+redis==5.0.8
+requests==2.32.3
+six==1.16.0
+SQLAlchemy==2.0.32
+typing_extensions==4.12.2
+tzdata==2024.1
+tzlocal==5.2
+urllib3==2.2.2
+vine==5.1.0
+virtualenv @ file:///croot/virtualenv_1674752100526/work
+wcwidth==0.2.13
